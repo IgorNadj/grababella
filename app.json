@@ -1,5 +1,15 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "Grababella",
+    "sdkVersion": "27.0.0",
+    "icon": "./assets/logo.png",
+    "version": "1.0.0",
+    "slug": "grababella",
+    "ios": {
+      "bundleIdentifier": "io.igornadj.grababella"
+    },
+    "android": {
+      "package": "io.igornadj.grababella"
+    }
   }
 }
